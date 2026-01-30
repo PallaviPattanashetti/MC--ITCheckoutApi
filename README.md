@@ -1,0 +1,5 @@
+- Isaias Gonzalez
+  - Delete the Weather Forecast files.
+  - The data type for `Student.DeviceCheckedOutId` should be `int?` instead of `bool`.
+  - The endpoint `/api/Student/GetStudentById` only crashes, the function is incomplete.
+  - The endpoint `/api/Student/updateStudent` only crashes, there is a duplicate incomplete function.
