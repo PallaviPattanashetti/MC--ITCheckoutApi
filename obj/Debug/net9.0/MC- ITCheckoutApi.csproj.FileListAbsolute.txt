@@ -1,0 +1,35 @@
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/bin/Debug/net9.0/appsettings.Development.json
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/bin/Debug/net9.0/appsettings.json
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/bin/Debug/net9.0/MC- ITCheckoutApi.staticwebassets.endpoints.json
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/bin/Debug/net9.0/MC- ITCheckoutApi
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/bin/Debug/net9.0/MC- ITCheckoutApi.deps.json
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/bin/Debug/net9.0/MC- ITCheckoutApi.runtimeconfig.json
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/bin/Debug/net9.0/MC- ITCheckoutApi.dll
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/bin/Debug/net9.0/MC- ITCheckoutApi.pdb
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/MC- ITCheckoutApi.csproj.AssemblyReference.cache
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/MC- ITCheckoutApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/MC- ITCheckoutApi.AssemblyInfoInputs.cache
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/MC- ITCheckoutApi.AssemblyInfo.cs
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/MC- ITCheckoutApi.csproj.CoreCompileInputs.cache
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/MC- ITCheckoutApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/MC- ITCheckoutApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/scopedcss/bundle/MC- ITCheckoutApi.styles.css
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/staticwebassets.build.json
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/staticwebassets.development.json
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/MC- ITCh.83743C24.Up2Date
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/MC- ITCheckoutApi.dll
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/refint/MC- ITCheckoutApi.dll
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/MC- ITCheckoutApi.pdb
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/MC- ITCheckoutApi.genruntimeconfig.cache
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/ref/MC- ITCheckoutApi.dll

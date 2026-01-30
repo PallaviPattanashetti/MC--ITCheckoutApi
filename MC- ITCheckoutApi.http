@@ -1,0 +1,6 @@
+@MC__ITCheckoutApi_HostAddress = http://localhost:5063
+
+GET {{MC__ITCheckoutApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
