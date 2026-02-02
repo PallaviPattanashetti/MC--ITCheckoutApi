@@ -33,3 +33,4 @@
 /Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/MC- ITCheckoutApi.pdb
 /Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/MC- ITCheckoutApi.genruntimeconfig.cache
 /Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/ref/MC- ITCheckoutApi.dll
+/Users/pallavipraveen/Documents/Level-2/asignments/MC- ITCheckoutApi/obj/Debug/net9.0/MC- ITCheckoutApi.sourcelink.json

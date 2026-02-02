@@ -17,7 +17,7 @@ namespace MC__ITCheckoutApi.Service
                 Id = 1,
                 Name = "Juhi",
                 Email = "Juhi.juhi@gmail.com",
-                DeviceCheckedOutId = true
+                DeviceCheckedOutId = 1
 
             });
 
@@ -26,7 +26,7 @@ namespace MC__ITCheckoutApi.Service
                 Id = 2,
                 Name = "Barbara",
                 Email = "Barbara.@gmail.com",
-                DeviceCheckedOutId = true
+                DeviceCheckedOutId = 2
 
             });
         }
@@ -54,8 +54,9 @@ namespace MC__ITCheckoutApi.Service
 
         public Student? GetStudentById(int id)
         {
-            throw new NotImplementedException();
+            return _studentList.FirstOrDefault(s =>s.Id==id);
         }
+
 
         //---Read----
         public List<Student>GetStudents()
@@ -63,7 +64,7 @@ namespace MC__ITCheckoutApi.Service
             return _studentList;
         }
         //---Update-----
-        public Student? updateStudent(int id, Student updateStudent)
+        public Student? UpdateStudent(int id, Student updateStudent)
         {
             Student? existingStudent = _studentList.FirstOrDefault(s =>s.Id==id);
             if(existingStudent==null)
@@ -76,9 +77,5 @@ namespace MC__ITCheckoutApi.Service
               return existingStudent;
         }
 
-        public Student? UpdateStudent(int id, Student updateStudent)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

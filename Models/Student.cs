@@ -11,6 +11,6 @@ namespace MC__ITCheckoutApi.Models
         public string? Name { get; set; }
         public string? Email{ get; set; }
 
-public bool  DeviceCheckedOutId{ get; set; }
+public int?  DeviceCheckedOutId{ get; set; }
     }
 }
